@@ -8,14 +8,13 @@
  * Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
- #include <math.h>
- #include <stdexcept>
- 
- /**
-   metodo para realizar sumas de dos numeros
-  */
- double mult(int x, int y)
- {
-     return x * y;
- }
- 
+#include <math.h>
+#include <stdexcept>
+
+/**
+  metodo para realizar mult 
+ */
+double mult(int x, int y)
+{
+    return x * y;
+}
